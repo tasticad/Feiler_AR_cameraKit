@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/Feiler_AR_web/', // must match the repo name
+    base: '/Feiler_AR_cameraKit/', // must match the repo name
 });
